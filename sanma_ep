@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>明石家さんまの伝説エピソード集</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        header #branding {
+            float: left;
+        }
+        header #branding h1 {
+            margin: 0;
+        }
+        header nav {
+            float: right;
+            margin-top: 10px;
+        }
+        section {
+            padding: 20px;
+            margin: 20px 0;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>明石家さんまの伝説エピソード集</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">ホーム</a></li>
+                    <li><a href="sanma_episodes.html">明石家さんま</a></li>
+                    <li><a href="contact.html">お問い合わせ</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+        <section>
+            <h2>明石家さんまとは</h2>
+            <p>明石家さんま（あかしやさんま、本名：杉本 高文、1955年7月1日生まれ）は、日本のタレント、司会者、コメディアンです。彼はその独特な話し方とユーモアで知られ、日本のエンターテインメント業界で長年にわたり活躍しています。</p>
+        </section>
+        <section>
+            <h2>伝説エピソード集</h2>
+            <h3>1. 初めてのテレビ出演</h3>
+            <p>明石家さんまの初めてのテレビ出演は、彼が高校生の時に出場した素人参加型の番組でした。その時のパフォーマンスが視聴者の心を掴み、彼の芸能界への道が開かれました。</p>
+            <h3>2. 笑っていいとも!</h3>
+            <p>「笑っていいとも!」のレギュラーとして出演した明石家さんまは、独特のトークスタイルで人気を博し、番組の顔となりました。彼の名物コーナーは多くの視聴者に愛されました。</p>
+            <h3>3. 24時間テレビのマラソンランナー</h3>
+            <p>1995年、明石家さんまは「24時間テレビ」でマラソンランナーとして参加しました。彼の完走は多くの人々に感動を与え、その後も多くのチャリティーイベントに参加しています。</p>
+            <h3>4. ドラマ出演</h3>
+            <p>コメディアンとしてだけでなく、明石家さんまは俳優としても活躍しました。特に「男女7人夏物語」や「男女7人秋物語」などのドラマは高視聴率を記録し、多くのファンを獲得しました。</p>
+            <h3>5. 自身の冠番組</h3>
+            <p>「さんまのスーパーからくりTV」や「さんまのまんま」など、明石家さんまの名を冠した番組は多数存在し、そのどれもが長寿番組となりました。彼のトークスキルとユーモアは視聴者を魅了し続けています。</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2025 明石家さんまの伝説エピソード集</p>
+    </footer>
+</body>
+</html>
